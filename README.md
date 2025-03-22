@@ -31,7 +31,7 @@ See you with a breadbord in the boardroom!
 ---
 
 ### Connect with Me
-- 🐦 [Twitter](#)
-- 💼 [LinkedIn](#)
-- 🌐 [Portfolio Website](#)
+
+- 💼 mtowuwsubekoe@gmail.com(work) or mcgovernowusbekoe@gmail.com
+- 
 
