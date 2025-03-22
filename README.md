@@ -1,11 +1,37 @@
- 👋 Hi, I’m @thisismcgovern, McGovern
-I’m interested in Biomedical Engineering, especially using Web, AI/ML embedded in wearable technology for Health Advancements. I’m currently learning Web development, AI.
- I’m looking to collaborate on Health related Technologies
-- 📫 You can reach me mcgovernowusubekoe@gmail.com or mtowusubekoe@st.knust.edu.gh
-- 😄 Pronouns simply he/him/his
-- ⚡ Fun fact I like to write about life, 
+## Hi there 👋
+#### McGovern Twumasi Owusu-Bekoe
+Biomedical Engineer |  | AI & ML Health
 
-<!---
-thisismcgovern/thisismcgovern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### What I believe I can  do!
+
+- 🐍 **Python**
+- 🌐 **Web development** (React & Front-End)
+- 🤖 **Artificial Intelligence & Machine Learning** (Deep Learning & NLP)
+- 🧠 **Biomedical Engineering** (Signal Processing & Biosensors)
+- 🛠️ **Health Informatics**
+
+---
+
+## The goal is to bring health needs to the patient as close as possible!
+
+---
+
+### ✨ When not doing Tech stuff
+
+🎭 Theatre and Arts
+
+📚 Learning new skills (Languages! I speak Dutch a bit, Dat is Goed 😂😂)
+
+🏞️ Reading books - fiction and Christian lit (Love long walks!)
+
+See you with a breadbord in the boardroom!
+
+**P.S. #HeathTechisdope**
+
+---
+
+### Connect with Me
+- 🐦 [Twitter](#)
+- 💼 [LinkedIn](#)
+- 🌐 [Portfolio Website](#)
+
