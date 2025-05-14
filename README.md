@@ -5,7 +5,6 @@ Biomedical Engineer |  | AI & ML Health
 ### What I believe I can  do!
 
 - 🐍 **Python**
-- 🌐 **Web development** (React & Front-End)
 - 🤖 **Artificial Intelligence & Machine Learning** (Deep Learning & NLP)
 - 🧠 **Biomedical Engineering** (Signal Processing & Biosensors)
 - 🛠️ **Health Informatics**
